@@ -1,0 +1,24 @@
+.navbar-inverse {
+  background-color: gray;
+    color: whitesmoke;
+}
+body{
+    background-color: lawngreen;
+        color: black;
+    border: 20;
+}
+.Register{
+    color: aliceblue;
+    border: 10%;
+    margin-right: 2px;
+}
+
+.carousel-inner img{
+    width: 800px;
+    height: auto;
+    margin-left: 20%;
+    padding-bottom: 5%;
+}
+.row{
+    margin: auto;
+}
